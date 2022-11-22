@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Bernardo Velloso👋
 
 - 📝 Estudante de Engenharia de Computação
-- 🌱 Estudando sobre desenvolvimento web e automação
+- 🌱 Apaixonado pelos mundos de desenvolvimento web e ciência de dados
 
 <div align="center">
   <a href="https://github.com/BernardoVMendonca">
